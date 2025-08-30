@@ -90,7 +90,7 @@ export const minorProjects = [
     year: " JUN 25",
   },
   {
-    name: "International Quant Championship",
+    name: "Global Quant Championship",
     type: "Top 20% globally (Stage 1)",
     year: "MAY 25",
   },
